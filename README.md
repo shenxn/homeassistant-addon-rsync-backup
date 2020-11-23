@@ -1,3 +1,7 @@
+### Forked from https://github.com/tykarol/homeassistant-addon-rsync-backup
+
+Added repository.json to make adding through the Home Assistant GUI possible
+
 # Rsync Backups add-on for Home Assistant
 
 Transfers the Hass.io backups to a remote rsync server.

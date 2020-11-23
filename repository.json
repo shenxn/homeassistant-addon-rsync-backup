@@ -1,0 +1,5 @@
+{
+  "name": "Rsync Backups",
+  "url": "https://github.com/chriscrowe/homeassistant-addon-rsync-backup",
+  "maintainer": "Chris Crowe <skandocious@gmail.com>"
+}
